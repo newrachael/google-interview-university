@@ -522,9 +522,9 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 - nothing to implement
-- [X] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
-    - 한글 자막이 지원되어 놀랐다.
-    - 알고리즘의 비교를 위해 다양한 측정 방법이 있다.
+- [X] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4) 
+    - 한글 자막이 지원되어 놀랐다.
+    - 알고리즘의 비교를 위해 다양한 측정 방법이 있다.
     - 빅오는 최악의 경우, 오메가는 최고의 경우, 세타는 정확한 알고리즘의 성능을 표기할 때 사용한다
 - [ ] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
 - [ ] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
